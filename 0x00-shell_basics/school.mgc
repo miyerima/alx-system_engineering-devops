@@ -1,2 +1,3 @@
-o string HOLBERTON Holberton data
-!:mime holberton
+#!/bin/bash
+0 string SCHOOL School data
+!:mime School
